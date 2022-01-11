@@ -8,4 +8,4 @@ or
 ```python3 main.py```
 or
 ```python main.py```
-[alt "Image"](https://github.com/multiManCC/Get-Save-Wifi-Passwords/blob/main/main.png)
+["Image"](https://github.com/multiManCC/Get-Save-Wifi-Passwords/blob/main/main.png)
